@@ -1,6 +1,6 @@
 # SnowCrash Space
 
-In SnowCrash Space, the player controls the virtual company and the virtual company controls the SnowCrash Space.
+In MetaVoxel, players control the virtual company, and the virtual company controls SnowCrash Space.
 
 ## Website
 
